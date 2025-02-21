@@ -4,9 +4,8 @@ Obesity has become a progressive global epidemic with great increase in chronic 
 The ability to provide the predictability of these models with explainability would find application by enabling the healthcare professionals to formulate risk-reduction strategies for various populations, policymakers to engrave plans for public health, and individuals making informed lifestyle choices. The involvement of AI not only deserves a well-deserved confidence in the field of AI-driven systems but also sets the ground for an inclusive, ethical, and impactful application of technology to fight fatness.
 
 ### Introduction
-            Obesity is a global health challenge, contributing to numerous chronic diseases and increasing healthcare costs. Identifying its underlying risk factors is crucial for prevention and management. This project leverages Explainable AI (XAI) to analyze and interpret complex data, providing clear insights into key factors influencing obesity.
-           
-            By combining advanced machine learning models with interpretability techniques like SHAP and LIME, we aim to enhance understanding, support informed decision-making, and guide effective interventions for better public health outcomes.
+    Obesity is a global health challenge, contributing to numerous chronic diseases and increasing healthcare costs. Identifying its underlying risk factors is crucial for prevention and management. This project leverages Explainable AI (XAI) to analyze and interpret complex data, providing clear insights into key factors influencing obesity.
+    By combining advanced machine learning models with interpretability techniques like SHAP and LIME, we aim to enhance understanding, support informed decision-making, and guide effective interventions for better public health outcomes.
 
 
 
@@ -119,7 +118,9 @@ Inferences: Effective predictions, faster diagnosis.
 ![image](https://github.com/user-attachments/assets/5accec1c-6234-4746-bef7-873a3345bd60)
 
 ### Conclusion
-      The exploration of obesity risk factors using explainable AI has demonstrated the potential of integrating machine learning with interpretability methods to not only predict obesity risk accurately but also to elucidate the underlying factors driving these predictions. By modeling the obesity risk score as a function of diverse risk factors—including genetic markers, dietary habits, physical activity levels, psychological aspects, environmental conditions, and socioeconomic factors—we have shown that complex interactions can be effectively captured using advanced machine learning algorithms.
+          The exploration of obesity risk factors using explainable AI has demonstrated the potential of integrating machine learning with interpretability methods to not only predict obesity risk accurately but also to elucidate the underlying factors driving these predictions. By modeling the obesity risk score as a function of diverse risk factors—including genetic markers, dietary habits, physical activity levels, psychological aspects, environmental conditions, and socioeconomic factors—we have shown that complex interactions can be effectively captured using advanced machine learning algorithms.
+
+          
       The use of explainable AI techniques such as SHAP, LIME, and permutation feature importance has been instrumental in providing transparent insights into the decision-making process of the model. These methods enable us to pinpoint the most influential variables, thereby offering actionable insights that can inform personalized interventions and public health strategies. Moreover, the framework established through this work paves the way for improved trust and collaboration between healthcare professionals and AI systems.
 
 ### Future Work
