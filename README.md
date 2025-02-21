@@ -4,7 +4,7 @@ Obesity has become a progressive global epidemic with great increase in chronic 
 The ability to provide the predictability of these models with explainability would find application by enabling the healthcare professionals to formulate risk-reduction strategies for various populations, policymakers to engrave plans for public health, and individuals making informed lifestyle choices. The involvement of AI not only deserves a well-deserved confidence in the field of AI-driven systems but also sets the ground for an inclusive, ethical, and impactful application of technology to fight fatness.
 
 ### Introduction
-    Obesity is a global health challenge, contributing to numerous chronic diseases and increasing healthcare costs. Identifying its underlying risk factors is crucial for prevention and management. This project leverages Explainable AI (XAI) to analyze and interpret complex data, providing clear insights into key factors influencing obesity.
+    <p>Obesity is a global health challenge, contributing to numerous chronic diseases and increasing healthcare costs. Identifying its underlying risk factors is crucial for prevention and management. This project leverages Explainable AI (XAI) to analyze and interpret complex data, providing clear insights into key factors influencing obesity.</p>
     By combining advanced machine learning models with interpretability techniques like SHAP and LIME, we aim to enhance understanding, support informed decision-making, and guide effective interventions for better public health outcomes.
 
 
